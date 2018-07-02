@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2011
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NanoReview", "NanoReview\NanoReview.csproj", "{F83E07CC-F15C-4EF0-8B05-E33939BCE893}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NanoReview.Tests", "NanoReview.Tests\NanoReview.Tests.csproj", "{F8262DA7-0D8D-4579-A9CC-EBD775BF7C2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F83E07CC-F15C-4EF0-8B05-E33939BCE893}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F83E07CC-F15C-4EF0-8B05-E33939BCE893}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F83E07CC-F15C-4EF0-8B05-E33939BCE893}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F83E07CC-F15C-4EF0-8B05-E33939BCE893}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8262DA7-0D8D-4579-A9CC-EBD775BF7C2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8262DA7-0D8D-4579-A9CC-EBD775BF7C2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8262DA7-0D8D-4579-A9CC-EBD775BF7C2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8262DA7-0D8D-4579-A9CC-EBD775BF7C2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C75B0A0F-A854-49F6-8D40-B1AE98FC2F91}
+	EndGlobalSection
+EndGlobal
